@@ -62,7 +62,7 @@ body {
     #menu-sp {
         display: none;
     }
-    
+
     #nav-sp {
         display: none;
     }
@@ -101,7 +101,7 @@ body {
         top: 20px;
         right: 20px;
     }
-    #nav-sp {
+    #logo-sp {
         margin: 80px 0 30px 20px;
     }
     #nav-sp>a {
